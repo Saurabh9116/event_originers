@@ -20,8 +20,7 @@ await connectCloudinary();
 // Allowed origins
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://prakashfreshness.vercel.app',
-  'https://www.prakashfreshness.shop'
+  'https://event-originers-a5px.vercel.app'
 ];
 
 // Middleware configuration
