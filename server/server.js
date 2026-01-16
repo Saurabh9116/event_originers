@@ -20,7 +20,8 @@ await connectCloudinary();
 // Allowed origins
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://event-originers-a5px.vercel.app'
+  'https://event-originers-a5px.vercel.app',
+  'https://eventorganizers.vercel.app'
 ];
 
 // Middleware configuration
